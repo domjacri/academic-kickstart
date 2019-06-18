@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 2  # Order that this section will appear.
 
-title = "Cirriculum Vitae"
+title = "Curriculum Vitae"
 subtitle = ""
 
 # Date format for experience
@@ -34,6 +34,6 @@ date_format = "Jan 2006"
   location = "Indianapolis, IN"
   date_start = "2018-08-21"
   date_end = ""
-  description = """Dom is currently working towards his PhD in Medical Neuroscience in Indianapolis. His research interests surround using cutting-edge approaches to elucidate the genetics of Alzheimer's disease. He serves on the Medical Neuroscience Graduate Organizationi board, is the Vice President of IUSM's chapter of the Society for Advancement of Chicanos & Native Americans in Science (SACNAS), and is the secretary of Science Outreach in Central Indiana."""
+  description = """Dom is currently working towards his PhD in Medical Neuroscience in Indianapolis. His research interests surround using cutting-edge approaches to elucidate the genetics of Alzheimer's disease. He serves on the Medical Neuroscience Graduate Organization board, is the Vice President of IUSM's chapter of the Society for Advancement of Chicanos & Native Americans in Science (SACNAS), and is the secretary of Science Outreach in Central Indiana."""
 
 +++
