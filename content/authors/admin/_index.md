@@ -11,7 +11,7 @@ email: "dacri@iu.edu"
 interests:
 - Alzheimer's Disease
 - QTL Mapping
-- snoRNAseq
+- snRNAseq
 name: Dom J. Acri
 organizations:
 - name: Indiana University School of Medicine
@@ -20,7 +20,7 @@ role: PhD Student in Medical Neuroscience
 social:
 - icon: paper-plane
   icon_pack: fas
-  link: 'dacri@iu.edu'
+  link: mailto:dacri@iu.edu
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/domjacri
