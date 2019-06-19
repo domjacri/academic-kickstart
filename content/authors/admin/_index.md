@@ -7,6 +7,7 @@ education:
   - course: BSc in Neuroscience & Behavior
     institution: Univeristy of Notre Dame
     year: 2014 - 2018
+    logo: "/logo/icon_ND.png"
 email: "dacri@iu.edu"
 interests:
 - Alzheimer's Disease
