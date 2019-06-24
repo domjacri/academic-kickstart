@@ -18,7 +18,7 @@ subtitle = "Links for more Info"
   icon = "r-project"
   icon_pack = "fab"
   name = "Coding in R"
-  description = r/qtl2"
+  description = "r/qtl2"
 
 [[feature]]
   icon = "python"
