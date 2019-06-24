@@ -11,7 +11,7 @@ title = "#SciComm"
 subtitle = "Talks, Teaching, & Podcasts"
 
 # Order that this section will appear in.
-weight = 40
+weight = 50
 
 # CLASSES
 
