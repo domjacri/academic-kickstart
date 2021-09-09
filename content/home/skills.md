@@ -15,39 +15,39 @@ subtitle = "Links for more Info"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "Coding in R"
-  description = "r/qtl2"
-
-[[feature]]
-  icon = "python"
-  icon_pack = "fab"
-  name = "Coding in Python"
-  description = "scanpy"
-
-[[feature]]
-  icon = "microscope"
+  icon = "rna"
   icon_pack = "fas"
-  name = "Lab Work"
-  description = "Cell Lines & Mouse Models"  
+  name = "RNA-seq"
+  description = "Library Creation, Read Alignment, Analysis"
 
 [[feature]]
-  icon = "book-open"
+  icon = "terminal"
   icon_pack = "fas"
-  name = "#SciComm"
-  description = "[podcast](https://brainsetalius.wixsite.com/home) & [twitter](twitter.com/domjacri)"
+  name = "Computation"
+  description = "R, Python, Unix"
 
 [[feature]]
-  icon = "gamepad"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Gaming"
-  description = "PS4"
+  name = "Neuroscience Model Species"
+  description = "Mouse & Fly Handling"  
+
+[[feature]]
+  icon = "syringe"
+  icon_pack = "fas"
+  name = "AAV Injection"
+  description = "Somatic Brain Transgenesis"
+
+[[feature]]
+  icon = "window-maximize"
+  icon_pack = "fas"
+  name = "Website Creation"
+  description = "SACNAS @ IUSM"
 
 [[feature]]
   icon = "baseball-ball"
   icon_pack = "fas"
-  name = "MLB Stat Geek"
-  description = "[Go O's!](www.orioles.com)"
+  name = "MLB Fanatic"
+  description = "Go Orioles!"
 
 +++
