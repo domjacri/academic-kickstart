@@ -15,7 +15,7 @@ subtitle = "Links for more Info"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "rna"
+  icon = "dna"
   icon_pack = "fas"
   name = "RNA-seq"
   description = "Library Creation, Read Alignment, Analysis"

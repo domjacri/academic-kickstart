@@ -15,11 +15,13 @@ image:
   preview_only: false
 lastmod: "2019-04-17T00:00:00Z"
 projects: []
-subtitle: 'Partnership between IUPUI Graduate Office & IU School of Medicine'
-summary: Dom Acri supported by IUPUI Fellowship for 2018-2019 Academic Year
+subtitle: 'NSF Directorate for Education and Human Resources provides support for the Alliance for Graduate Education and the Professoriate Program (AGEP) to aid in diversifying the country’s STEM faculty.'
+summary: Dom Acri named to the Doctoral Scholars Program for the 2018-2022 Term
 tags:
 - Academic
-title: 'IUPUI Graduate Diversity Fellowship'
+title: 'Southern Region Education Board Doctoral Scholars Program'
 ---
 
-Awarded in May 2018 and taking effect during the 2018-2019 Academic year, Dom was selected from a campus-wide competition of recruitment fellows to receive the Graduate Diversity Fellowship. The award was presented as part of the Graduate School Emmissaries Reception by Dr. Tabitha Hardy, Assistant Dean for Student Development and Academic Affairs. This fellowship includes full support--tuition, stipend, insurance, and program fees totaling approximately $50,000. In addition the fellowship includes a travel award which will help send Dom to Cold Spring Harbor for a Single Cell Genomics conference in the fall of 2019. 
+Increased participation of underrepresented minority scholars in advanced STEM (science, technology, engineering and math) education and training is critical for supporting the development of a diverse professional STEM workforce — especially a diverse STEM faculty who can serve as the intellectual, professional, personal and organizational role models who shape the expectations of future scientists and engineers.
+
+Dom was named to the Doctoral Scholars program in 2018 and attends the SREB's annual Institute on Teaching and Mentoring. There he connects with fellow indigenous acadmics of all disciplines to form community and learn about careers in academia.
