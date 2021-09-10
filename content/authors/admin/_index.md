@@ -12,7 +12,7 @@ email: "dacri@iu.edu"
 interests:
 - Neurodegeneration
 - Genetics
-- Multi-omics
+- Diversity, Equity, and Inclusion
 name: Dom J. Acri
 organizations:
 - name: Indiana University School of Medicine

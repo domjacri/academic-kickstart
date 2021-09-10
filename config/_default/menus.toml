@@ -32,3 +32,8 @@
    name = "Download CV"
    url = "files/cv.pdf"
    weight = 70
+
+[[main]]
+  name = "Land Acknowledgement"
+  url = "files/la.pdf"
+  weight = 80
