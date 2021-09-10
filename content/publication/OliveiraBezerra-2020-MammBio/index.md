@@ -1,5 +1,5 @@
 ---
-abstract: Previous studies exploring the rhythmic activity of sloths of the Bradypus genus in undisturbed forests revealed cathemeral patterns of activity. In the current study we wished to examine sloth behavior in a highly disturbed secondary forest habitat. We evaluated activity pattern, time budget and rhythmic activities of brown-throated three-toed sloths (B. variegatus) living in the border of a highly disturbed forest fragment in northeastern Brazil.
+abstract: Previous studies exploring the rhythmic activity of sloths of the Bradypus genus in undisturbed forests revealed cathemeral patterns of activity. In the current study we wished to examine sloth behavior in a highly disturbed secondary forest habitat. We evaluated activity pattern, time budget and rhythmic activities of brown-throated three-toed sloths (Bradypus variegatus) living in the border of a highly disturbed forest fragment in northeastern Brazil.
 authors:
 - Diogo de Oliveira Bezerra
 - Leandro Ricardo Rodrigues de Lucena
