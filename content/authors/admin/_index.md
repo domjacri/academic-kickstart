@@ -4,8 +4,12 @@ authors:
 bio: My research interests include neurodegeneration, genetic diversity and the genetic risks of dementia.
 education:
   courses:
+  - course: PhD in Medical Neuroscience
+    institution: Indiana University School of Medicine
+    year: 2019 - Present
+    logo: "/logo/icon_ND.png"
   - course: BSc in Neuroscience & Behavior
-    institution: Univeristy of Notre Dame
+    institution: University of Notre Dame
     year: 2014 - 2018
     logo: "/logo/icon_ND.png"
 email: "dacri@iu.edu"
@@ -40,6 +44,9 @@ user_groups:
 - Visitors
 ---
 
-**'No one searches without a plan.'**-Santiago Ramon y Cajal (_Advice for a Young Investigator, 1897_)
+**'No one searches without a plan.'**-Santiago Ramon y Cajal
+    (_Advice for a Young Investigator, 1897_)
 
-Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom decided he wanted to explore the worlds of big data and medical research. By combining fundamental research in animals, genomic data, and next generation molecular tools, he spends his days (_and sometimes nights_) researching Alzheimer's Disease and Related Dementias.
+Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom decided he wanted to explore the worlds of big data and medical research. By combining fundamental research in animals, genomic data, and next generation molecular tools, he spends his days (_and sometimes nights_) researching Alzheimer's Disease and Related Dementias. Dom plans to pursue a career in academia, with a focus on genetic risk factors for neurodegenerative diseases.
+
+Dom is a descendent of the Sicangu Lakota (Rosebud Sioux Tribe) and mixed European ancestry. He is an active member of the American Indian Science and Engineering Society (AISES) and the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS). 
