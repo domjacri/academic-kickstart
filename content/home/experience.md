@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "South Bend, IN"
   date_start = "2015-08-21"
   date_end = "2018-05-19"
-  description = """While at the University of Notre Dame, Dom worked part-time for the University Writing Center in several roles. As a tutor at the Writing Center for 6 semesters, Dom saw undergraduate students, graduate students, and faculty over approximately 8-10 45-minute sessions per week. During his final two years at the Writing Center, Dom specialized in tutoring for the Academic Services for Student-Athletes and serving as a teaching assistant for the required first-year (Freshman) 'Writing & Rhetoric' seminar class. He became certified to teach English as a Second Language ("(TESOL)[https://cslc.nd.edu/undergraduate/tesol-minor/]") and presented a new workflow for addressing language barriers at Writing Centers at the National Conference on Peer Tutoring in Writing ("(NCPTW)[https://thencptw.org/]") in 2016."""
+  description = """While at the University of Notre Dame, Dom worked part-time for the University Writing Center in several roles. As a tutor at the Writing Center for 6 semesters, Dom saw undergraduate students, graduate students, and faculty over approximately 8-10 45-minute sessions per week. During his final two years at the Writing Center, Dom specialized in tutoring for the Academic Services for Student-Athletes and serving as a teaching assistant for the required first-year (Freshman) 'Writing & Rhetoric' seminar class. He became certified to teach English as a Second Language (TESOL) and presented a new workflow for addressing language barriers at Writing Centers at the National Conference on Peer Tutoring in Writing (NCPTW) in 2016."""
 
 [[experience]]
   title = "Research Assistant"

@@ -17,7 +17,7 @@ height = ""
 # Duplicate an `[[item]]` block to add more slides.
 [[item]]
   title = "See me in Phoenix at AISES 2021"
-  content = "Research Presentation: 9/23 5PM"
+  content = "Research Presentation: Sept 23rd, 2021 2PM MST"
   align = "right"  # Choose `center`, `left`, or `right`.
 
   # Overlay a color or image (optional).
@@ -36,7 +36,7 @@ height = ""
 
 [[item]]
   title = "Connect virtually at SACNAS 2021"
-  content = "Research Presentation: 10/28 time TBD"
+  content = "Research Presentation: Oct 28th, 2021 time TBD"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
