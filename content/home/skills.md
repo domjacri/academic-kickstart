@@ -15,7 +15,7 @@ subtitle = "See [CV](files/cv.pdf) for More Info"
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "dna"
+  icon = "vial"
   icon_pack = "fas"
   name = "RNA-seq"
   description = "Library Creation, Read Alignment, Analysis"
@@ -27,7 +27,7 @@ subtitle = "See [CV](files/cv.pdf) for More Info"
   description = "R, Python, Unix"
 
 [[feature]]
-  icon = "chart-scatter"
+  icon = "dna"
   icon_pack = "fas"
   name = "Association Mapping"
   description = "QTL + GWAS"  

@@ -22,7 +22,8 @@ organizations:
 - name: Indiana University School of Medicine
   url: "https://medicine.iu.edu/research-centers/neurosciences/education/Medical-Neuroscience-Graduate-Program/Student-Spotlight"
 role: PhD Candidate in Medical Neuroscience
-role: descendent Sicangu Lakota (Rosebud Sioux Tribe)
+descendent Sicangu Lakota
+(Rosebud Sioux Tribe)
 social:
 - icon: paper-plane
   icon_pack: fas
