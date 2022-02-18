@@ -21,7 +21,7 @@ name: Dom J. Acri
 organizations:
 - name: Indiana University School of Medicine
   url: "https://medicine.iu.edu/research-centers/neurosciences/education/Medical-Neuroscience-Graduate-Program/Student-Spotlight"
-  role: PhD Candidate in Medical Neuroscience
+role: PhD Candidate in Medical Neuroscience
 social:
 - icon: paper-plane
   icon_pack: fas
