@@ -16,7 +16,7 @@ image:
 lastmod: "2021-04-17T00:00:00Z"
 projects: []
 subtitle: 'NIA funded T32 Awarded to Indiana University'
-summary: Dom Acri appointed to T32 for 2020-2021 Academic Year
+summary: Dom Acri appointed to T32 for 2021-2022 Academic Year
 tags:
 - Academic
 title: 'T32 Grant Appointee'

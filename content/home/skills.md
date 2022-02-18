@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Skills & Hobbies"
-subtitle = "Links for more Info"
+title = "Skills"
+subtitle = "See [CV](files/cv.pdf) for More Info"
 
 # Showcase personal skills or business features.
 #
@@ -21,33 +21,35 @@ subtitle = "Links for more Info"
   description = "Library Creation, Read Alignment, Analysis"
 
 [[feature]]
-  icon = "terminal"
+  icon = "laptop-code"
   icon_pack = "fas"
   name = "Computation"
   description = "R, Python, Unix"
 
 [[feature]]
+  icon = "chart-scatter"
+  icon_pack = "fas"
+  name = "Association Mapping"
+  description = "QTL + GWAS"  
+
+[[feature]]
   icon = "brain"
   icon_pack = "fas"
   name = "Neuroscience Model Species"
-  description = "Mouse & Fly Handling"  
+  description = "Mouse & Fly Handling"
 
 [[feature]]
-  icon = "syringe"
-  icon_pack = "fas"
-  name = "AAV Injection"
-  description = "Somatic Brain Transgenesis"
+    icon = "microscope"
+    icon_pack = "fas"
+    name = "Molecular Biology"
+    description = "Standard Laboratory Techniques"
 
 [[feature]]
-  icon = "window-maximize"
+  icon = "chalkboard"
   icon_pack = "fas"
-  name = "Website Creation"
-  description = "SACNAS @ IUSM"
+  name = "Teaching"
+  description = "G771: Analysis of Large Datasets for Biologists"
 
-[[feature]]
-  icon = "baseball-ball"
-  icon_pack = "fas"
-  name = "MLB Fanatic"
-  description = "Go Orioles!"
+
 
 +++

@@ -16,7 +16,7 @@ image:
 lastmod: "2021-09-01T00:00:00Z"
 projects: []
 subtitle: 'NSF Funded Program thoroug the American Indian Science and Engineering Society'
-summary: Dom Acri was named to the AISES LTP Cohort 3 in 2021
+summary: Dom Acri was named to the AISES LTP Cohort II in 2021
 tags:
 - Academic
 title: 'Lighting the Pathway to Faculty Careers in STEM: Cohort 3'

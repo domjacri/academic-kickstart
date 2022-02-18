@@ -3,7 +3,7 @@ authors:
 - admin
 categories: []
 date: "2018-05-15T00:00:00Z"
-draft: false
+draft: true
 featured: false
 gallery_item:
 - album: gallery

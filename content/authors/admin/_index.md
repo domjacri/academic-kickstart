@@ -16,12 +16,13 @@ email: "dacri@iu.edu"
 interests:
 - Neurodegeneration
 - Genetics
-- Diversity, Equity, and Inclusion
+- RNAseq
 name: Dom J. Acri
 organizations:
 - name: Indiana University School of Medicine
   url: "https://medicine.iu.edu/research-centers/neurosciences/education/Medical-Neuroscience-Graduate-Program/Student-Spotlight"
 role: PhD Candidate in Medical Neuroscience
+role: descendent Sicangu Lakota (Rosebud Sioux Tribe)
 social:
 - icon: paper-plane
   icon_pack: fas
@@ -44,9 +45,6 @@ user_groups:
 - Visitors
 ---
 
-**'No one searches without a plan.'**-Santiago Ramon y Cajal
-    (_Advice for a Young Investigator, 1897_)
+Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom's research interests shifted from behavioral ecology to molecular genetics. By combining wet and dry laboratory techniques, he now spends his days (_and sometimes nights_) researching Alzheimer's Disease and Related Dementias. Dom plans to pursue a career in academia, with a focus on genetic modifiers of neurodegenerative diseases.
 
-Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom decided he wanted to explore the worlds of big data and medical research. By combining fundamental research in animals, genomic data, and next generation molecular tools, he spends his days (_and sometimes nights_) researching Alzheimer's Disease and Related Dementias. Dom plans to pursue a career in academia, with a focus on genetic risk factors for neurodegenerative diseases.
-
-Dom is a descendent of the Sicangu Lakota (Rosebud Sioux Tribe) and mixed European ancestry. He is an active member of the American Indian Science and Engineering Society (AISES) and the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS). 
+Dom also has a particular passion for DEI (Diversity, Equity, and Inclusion). He is an active member of the American Indian Science and Engineering Society (AISES) and the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS).  
