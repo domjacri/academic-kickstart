@@ -51,7 +51,16 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Indianapolis, IN"
   date_start = "2018-08-21"
+  date_end = "2024-02-29"
+  description = """Dom completed his PhD in Medical Neuroscience in Indianapolis. Dissertation was titled "The Influence of Genetic Diversity in Tauopathy", which investigated the impact of _Mus musculus_ and _Drosophila melanogaster_ models of population genetic variation in the study of hTauP301L-driven neurogeneration. As part of his career at IUSM, he received several honors including the Southern Regional Education Board's Doctoral Scholars Program, the Paul and Carole Stark Medical Neuroscience Fellowship, and the Larry Kays Fellowship. He served as a founding-board member of IUSM's chapter of the Society for Advancement of Chicanos & Native Americans in Science (SACNAS) and completed a two year term in the American Indian Science and Engineering Society's NSF-funded 'Lighting the Pathway to Faculty Careers for Natives in STEM' program."""
+
+[[experience]]
+  title = "Postdoctoral Researcher"
+  company = "NIH/NIA - Intramural Research Program: Mark Cookson Laboratory"
+  company_url = "https://www.nia.nih.gov/research/labs/lng"
+  location = "Bethesda, MD"
+  date_start = "2024-01-22"
   date_end = ""
-  description = """Dom is currently working towards his PhD in Medical Neuroscience in Indianapolis. His research interests surround using genetic screening approaches to investigate modifiers of tau-aggregate driven neurodegeneration. He serves as a board member of IUSM's chapter of the Society for Advancement of Chicanos & Native Americans in Science (SACNAS) and is a member of the American Indian Science and Engineering Society's 'Lighting the Pathway to Faculty Careers for Natives in STEM.'"""
+  description = """Dom continuing his training in neurodegeneration in Bethesda. Through collaborations within the Laboratory of Neurogenetics, the Center for Alzheimer's and Related Dementias, and other intramural laboratories, his work focuses mainly on using single cell multiomic assays to study the age-related effects within the innate immune system of the brain. He serves as a mentor within his laboratory, with the NINDS's Heath Disparities in Tribal Communities (HDTC) program, and through NIH-wide events organized by the Office of Intramural Training and Education.'"""
 
 +++
