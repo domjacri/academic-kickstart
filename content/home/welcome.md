@@ -35,53 +35,36 @@ height = ""
 #  #cta_icon = "graduation-cap"
 
 [[item]]
-  title = "Connect virtually at Tau 2022"
-  content = "Poster 59511 & 'Various Topics' Flash Talk"
+  title = "Connect with me at Neuroscience 2024"
+  content = "Poster & SfN-sponsored social"
   align = "left"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "tau2022.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = ""  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Feb 22-23"
-  cta_url = "https://alz.org/tau/overview.asp"
+  cta_label = "Click for Dom's Info"
+  cta_url = "https://www.abstractsonline.com/pp8/#!/20433/sessions/acri/1"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
-  [[item]]
-    title = "Network at AISES 2022 Leadership Summit"
-    content = "See you in Temecula!"
-    align = "left"
-
-    overlay_color = "#555"  # An HTML color value.
-    overlay_img = "aisessummit2022.png"  # Image path relative to your `static/img/` folder.
-    overlay_filter = 0.5  # Darken the image. Value in range 0-1.
-
-   # Call to action button (optional).
-    #   Activate the button by specifying a URL and button label below.
-    #   Deactivate by commenting out parameters, prefixing lines with `#`.
-    cta_label = "April 10-12"
-    cta_url = "https://events.aises.org/website/31737/"
-    #cta_icon_pack = "fas"
-    #cta_icon = "graduation-cap"
-
 [[item]]
   title = "**Most Recent Preprint**"
-  content = "protein Quantitative Trait Loci Mapping"
+  content = "Single-cell spatial transcriptomics of a-Syn mouse model"
   align = "center"
 
   overlay_color = "#555"  # An HTML color value.
-  overlay_img = "olink.png"  # Image path relative to your `static/img/` folder.
+  overlay_img = "lhp_preprint.png"  # Image path relative to your `static/img/` folder.
   overlay_filter = 0.5  # Darken the image. Value in range 0-1.
 
  # Call to action button (optional).
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
-  cta_label = "Philtjens & Acri, et al., _preprint_"
-  cta_url = "https://www.biorxiv.org/content/10.1101/2020.11.04.367938v1"
+  cta_label = "Horan-Portelance, et al., _preprint_"
+  cta_url = "https://www.biorxiv.org/content/10.1101/2024.07.31.606032v1"
   #cta_icon_pack = "fas"
   #cta_icon = "graduation-cap"
 
