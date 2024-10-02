@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-bio: My research interests include neurodegeneration, genetic diversity and the genetic risks of dementia.
+bio: My research interests include neurodegeneration, innante immunity and age-related genetic risk of dementia.
 education:
   courses:
   - course: PhD in Medical Neuroscience
     institution: Indiana University School of Medicine
-    year: 2019 - Present
+    year: 2019 - 2024
     logo: "/logo/icon_ND.png"
   - course: BSc in Neuroscience & Behavior
     institution: University of Notre Dame
@@ -15,17 +15,17 @@ education:
 email: "dacri@iu.edu"
 interests:
 - Neurodegeneration
-- Genetics
+- Bioinformatics
 - RNAseq
 name: Dom J. Acri
 organizations:
-- name: Indiana University School of Medicine
+- name: National Institute on Aging (Lab of Neurogenetics)
   url: "https://medicine.iu.edu/research-centers/neurosciences/education/Medical-Neuroscience-Graduate-Program/Student-Spotlight"
-role: PhD Candidate in Medical Neuroscience
+role: Postdoctoral Fellow
 social:
 - icon: paper-plane
   icon_pack: fas
-  link: mailto:dacri@iu.edu
+  link: mailto:dominic.acri@nih.gov
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/domjacri
@@ -44,6 +44,6 @@ user_groups:
 - Visitors
 ---
 
-Dom Acri was born and raised in Harrisburg, PA. After graduating from the University of Notre Dame with a bachelors in neuroscience & behavior, Dom's research interests shifted from behavioral ecology to molecular genetics. By combining wet and dry laboratory techniques, he now spends his days (_and sometimes nights_) researching Alzheimer's Disease and Related Dementias. Dom plans to pursue a career in academia, with a focus on genetic modifiers of neurodegenerative diseases.
+Dom Acri is a neuroscientist and bioinformatician interested in understanding the innate immune system of aging brains. After training in mouse models of neurodegeneration during his dissertation work in the laboratory of Dr. Jungsu Kim at Indiana University School of Medicine, Dom is currently continuing his training in age-related neurodegeneration with Dr. Mark Cookson in the National Institute on Aging's (NIH/NIA) Laboratory of Neurogenetics - Cell Biology and Gene Expression Section. His expertise includes collecting and analyzing data from various *transcriptomic* assays, understanding *epigenetic* states using methylation and chromatin accessibilty assays, and functionally validated computationally predicted modifiers of ADRD-risk using *iPSC*-derived cell culture. Dom plans to pursue a career in academia, with a focus on genetic modifiers of glial cells in the aging brain.
 
-Dom also has a particular passion for DEI (Diversity, Equity, and Inclusion). He is an active member of the American Indian Science and Engineering Society (AISES) and the Society for the Advancement of Chicanos and Native Americans in Science (SACNAS).  
+Dom also has a particular passion for DEI (Diversity, Equity, and Inclusion). He is an enrolled member of the Sicangu Lakota (Rosebud Sioux Tribe), active member of the American Indian Science and Engineering Society (AISES), and the co-founder of Natives In Neuroscience.  
